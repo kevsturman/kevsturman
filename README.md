@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a rel="me" href="https://social.linux.pizza/@thatbethatkev">Mastodon</a>
+<a rel="me" href="https://social.linux.pizza/@thatbethatkev"></a>
 <!--
 **kevsturman/kevsturman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
